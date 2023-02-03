@@ -1,0 +1,12 @@
+# Part 1: Data preprocessing
+    Importing the libraries
+    Importing the dataset
+    Dealing with missing data
+    Encoding categorical variables
+    Splitting the dataset into train and test set
+    Feature scaling
+
+# Part 2: Building the model
+    Linear Regression/Random Forest Model 
+
+# Part 3: Single observation to check the model.
